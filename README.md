@@ -1,5 +1,7 @@
 # Flask & React WebSocket Chat App
 
+This project was created as part of my coursework for Coding Temple.
+
 A real-time chat application built with Flask (backend) and React (frontend) using WebSockets for bi-directional communication.
 
 ## Features
